@@ -23,6 +23,8 @@ Full-Stack Developer centrado en **Python** y **Django** - cursos Claude Code (A
 - 🌐 **[Portfolio-Jose-Manuel](https://github.com/Josemanuel-48/Portfolio-Jose-Manuel)** — Mi portfolio personal.
 - 🔐 **[Creador-de-Contraseñas-con-Python](https://github.com/Josemanuel-48/Creador-de-Contraseñas-con-Python)** — Generador de contraseñas seguras.
 - 🗄️**[Organizador-Archivos-Carpeta-Descargas](https://github.com/Josemanuel-48/Organizador-de-archivos-carpeta-Descargas.git)** - Organiza Tu Carpeta.
+- 📓**[Agenda_Contactos_Personal](https://github.com/Josemanuel-48/Agenda-De-Contactos.git)** - Agenda Personal.
+
 
 
 ### 📫 Contacto
