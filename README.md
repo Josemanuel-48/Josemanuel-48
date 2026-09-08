@@ -23,11 +23,6 @@ Full-Stack Developer centrado en **Python** y **Django** - cursos Claude Code (A
 - 🌐 **[Portfolio-Jose-Manuel](https://github.com/Josemanuel-48/Portfolio-Jose-Manuel)** — Mi portfolio personal.
 - 🔐 **[Creador-de-Contraseñas-con-Python](https://github.com/Josemanuel-48/Creador-de-Contraseñas-con-Python)** — Generador de contraseñas seguras.
 
-### 📊 Estadísticas
-
-<img src="https://github-readme-stats.vercel.app/api?username=Josemanuel-48&show_icons=true&theme=tokyonight&count_private=true" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Josemanuel-48&layout=compact&theme=tokyonight" width="45%"/>
-
 ### 📫 Contacto
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jose-manuel-g%C3%B3mez-le%C3%B3n-544267136)
