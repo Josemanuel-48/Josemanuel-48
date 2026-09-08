@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hola,%20soy%20Jose%20Manuel%20👋&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Full-Stack%20Developer%20|%20Python%20&%20Django&descAlignY=62&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hola,%20soy%20Jose%20Manuel%20👋&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Full-Stack%20Developer%20%7C%20Python%20%7C%20Django&descAlignY=62&descSize=18" width="100%"/>&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Full-Stack%20Developer%20|%20Python%20&%20Django&descAlignY=62&descSize=18" width="100%"/>
 
 ### 💡 Sobre mí
 
