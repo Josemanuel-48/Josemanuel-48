@@ -2,7 +2,7 @@
 
 ### 💡 Sobre mí
 
-Full-Stack Developer en formación, centrado en **Python** y **Django**. Me gusta construir herramientas prácticas (gestores de gastos, contactos, contraseñas...) y aprender resolviendo problemas reales.
+Full-Stack Developer centrado en **Python** y **Django** - cursos Claude Code (Antropic Academy) Me gusta construir herramientas prácticas (gestores de gastos, contactos, contraseñas...) y aprender resolviendo problemas reales.
 
 ### 🛠️ Stack
 
