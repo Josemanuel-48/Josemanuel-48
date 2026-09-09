@@ -21,13 +21,14 @@ Full-Stack Developer centrado en **Python** y **Django** - **Pandas(Data-Anális
 ### 🚀 Proyectos destacados
 
 - 💰 **[Gastos-Personales](https://github.com/Josemanuel-48/Gastos-Personales)** — Aplicación en Python con SQLite para el control de gastos.
-- 🌐 **[Portfolio-Jose-Manuel](https://github.com/Josemanuel-48/Portfolio-Jose-Manuel)** — Mi portfolio personal.
+- 🌐 **[Portfolio-Jose-Manuel](https://josemanuel-48.github.io/Portfolio-Jose-Manuel/)** — Mi portfolio personal, ¡échale un vistazo!
 - 🔐 **[Creador-de-Contraseñas-con-Python](https://github.com/Josemanuel-48/Creador-de-Contraseñas-con-Python)** — Generador de contraseñas seguras.
 - 🗄️ **[Organizador-Archivos-Carpeta-Descargas](https://github.com/Josemanuel-48/Organizador-de-archivos-carpeta-Descargas.git)** - Organiza Tu Carpeta.
 - 📓 **[Agenda-Contactos-Personal](https://github.com/Josemanuel-48/Agenda-De-Contactos.git)** - Agenda Personal.
 - ✈️ **[Gestion_Viajes-Y-Tareas-Asociadas](https://github.com/Josemanuel-48/Travelchecklist.git)** - Gestiona Tus Viajes.
 - 🦾 **[Diario_De_Habitos](https://github.com/Josemanuel-48/Diario-H-bitos.git)** - Gestiona Tus Habitos.
 - 🫰 **[Gastos-Personales](https://github.com/Josemanuel-48/Gastos-Personales.git)** - Gestiona Tus Gastos.
+  
 
 
 
