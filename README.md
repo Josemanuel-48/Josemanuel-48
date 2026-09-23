@@ -25,7 +25,7 @@ Full-Stack Developer centrado en **Python** y **Django** - **Pandas(Data-Anális
 - 🔐 **[Creador-de-Contraseñas-con-Python](https://github.com/Josemanuel-48/Creador-de-Contraseñas-con-Python)** — Generador de contraseñas seguras.
 - 🗄️ **[Organizador-Archivos-Carpeta-Descargas](https://github.com/Josemanuel-48/Organizador-de-archivos-carpeta-Descargas.git)** - Organiza Tu Carpeta.
 - 📓 **[Agenda-Contactos-Personal](https://github.com/Josemanuel-48/Agenda-De-Contactos.git)** - Agenda Personal.
-- ✈️ **[Gestion_Viajes-Y-Tareas-Asociadas](https://github.com/Josemanuel-48/Travelchecklist.git)** - Gestiona Tus Viajes.
+- ✈️ **[Gestion_Viajes-Y-Tareas-Asociadas](https://github.com/Josemanuel-48/Travelchecklist.git)** Travelcheklist - Gestiona Tus Viajes.
 - 🦾 **[Diario_De_Habitos](https://github.com/Josemanuel-48/Diario-H-bitos.git)** - Gestiona Tus Habitos.
 - 🫰 **[Gastos-Personales](https://github.com/Josemanuel-48/Gastos-Personales.git)** - Gestiona Tus Gastos.
 - 🏖️ **[Petición-dias-libres-y-Vacaciones](https://github.com/Josemanuel-48/Peticion-Dias-Libres-Y-Vacaciones.git)** - Gestiona tus Días.
