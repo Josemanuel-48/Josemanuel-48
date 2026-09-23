@@ -29,6 +29,7 @@ Full-Stack Developer centrado en **Python** y **Django** - **Pandas(Data-Anális
 - 🦾 **[Diario_De_Habitos](https://github.com/Josemanuel-48/Diario-H-bitos.git)** - Gestiona Tus Habitos.
 - 🫰 **[Gastos-Personales](https://github.com/Josemanuel-48/Gastos-Personales.git)** - Gestiona Tus Gastos.
 - 🏖️ **[Petición-dias-libres-y-Vacaciones](https://github.com/Josemanuel-48/Peticion-Dias-Libres-Y-Vacaciones.git)** - Gestiona tus Días.
+- 🤖 **[Carros-AGV-Filoguiados](https://github.com/Josemanuel-48/Proyecto-Filoguiados.git)** - Gestiona la Ruta de los AGV con sensores y base de datos.
 
 
 
