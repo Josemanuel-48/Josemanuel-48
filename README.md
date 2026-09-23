@@ -28,7 +28,7 @@ Full-Stack Developer centrado en **Python** y **Django** - **Pandas(Data-Anális
 - ✈️ **[Gestion_Viajes-Y-Tareas-Asociadas](https://github.com/Josemanuel-48/Travelchecklist.git)** - Gestiona Tus Viajes.
 - 🦾 **[Diario_De_Habitos](https://github.com/Josemanuel-48/Diario-H-bitos.git)** - Gestiona Tus Habitos.
 - 🫰 **[Gastos-Personales](https://github.com/Josemanuel-48/Gastos-Personales.git)** - Gestiona Tus Gastos.
-  
+- 🏖️ **[Petición-dias-libres-y-Vacaciones](https://github.com/Josemanuel-48/Peticion-Dias-Libres-Y-Vacaciones.git)** - Gestiona tus Días.
 
 
 
