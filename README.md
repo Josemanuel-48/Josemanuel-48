@@ -3,7 +3,7 @@
 
 ### 💡 Sobre mí
 
-Full-Stack Developer centrado en **Python** y **Django** - **Pandas(Data-Análisis)** - **Cursos Claude Code (Antropic Academy)** - **Azure** - **MYSQL** - **Git**
+Full-Stack Developer centrado en **Python** y **Django** - **Pandas(Data-Análisis)** - **Cursos Claude Code (Antropic Academy)** - **SQL** - **Git**
 
 ### 🛠️ Stack
 
